@@ -15,7 +15,7 @@
       "zip": "400083"
     },
     "website": "https://atharva-portfolio.netlify.app/",
-    "resumedownload": "AtharvaResume.pdf",
+    "resumedownload": "Atharva Shinde Resume New.pdf",
     "social": [
       {
         "name": "youtube",
@@ -95,24 +95,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs, Router, ReduxJs",
-        "level": "85%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
-      },
-      {
-        "name": "JavaScript",
+        "name": "MERN Stack - ReactJs",
         "level": "80%"
       },
       {
-        "name": "Python",
+        "name": "Web Development (HTML, CSS, JS)",
+        "level": "95%"
+      },
+      {
+        "name": "DevOps",
         "level": "75%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "Product Management",
+        "level": "50%"
+      },
+      {
+        "name": "Python & Machine Learning",
+        "level": "50%"
+      },
+      {
+        "name": "Blockchain - DAOs, Smart Contracts, Polygon",
+        "level": "75%"
       }
       
     ]
@@ -130,6 +134,18 @@
         "category": "UpGrad",
         "image": "Blockchain.jpg",
         "url": "https://t.co/IciwZY8MV0?amp=1"
+      },
+      {
+        "title": "Basics of Financial Markets",
+        "category": "E-learn Markets",
+        "image": "Finance.jpg",
+        "url": "https://www.elearnmarkets.com/share/ELM-100210/1"
+      },
+      {
+        "title": "Basics of Financial Markets",
+        "category": "E-learn Markets",
+        "image": "Finance.jpg",
+        "url": "https://www.elearnmarkets.com/share/ELM-100210/1"
       },
       {
         "title": "Basics of Financial Markets",
