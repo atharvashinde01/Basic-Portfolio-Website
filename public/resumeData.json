@@ -1,8 +1,8 @@
 {
   "main": {
-    "name": "Atharva Rajesh Shinde",
-    "occupation": "React Developer @FusionTech",
-    "description": "I am a React Developer, Blockchain Enthusiast & an Active Investor & Trader",
+    "name": "Atharva Shinde",
+    "occupation": "Partner Success Engineering Intern @Nimbbl",
+    "description": "I am a PSE Intern, Frontend Dev, Blockchain, DevOps, Product & Startup Enthusiast",
     "image": "atharvaprofile.jpg",
     "bio": "Hello! I am Atharva. I am a React Developer and working as an React Intern @FusionTech. I am pursuing my Bachlor's of Engineering in Information Technology. I am a Blockchain, Crypto & Cyber Security Enthusiast and have been working on DApps. I am also an Active Investor & Trader. Apart from this, My leisure activities include Trekking, Cycling, Reading & playing Guitar.",
     "contactmessage": "Get in touch with me!",
@@ -14,7 +14,7 @@
       "state": "Maharashtra",
       "zip": "400083"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://atharva-portfolio.netlify.app/",
     "resumedownload": "AtharvaResume.pdf",
     "social": [
       {
@@ -69,10 +69,28 @@
     ],
     "work": [
       {
-        "company": "FusionTech",
+        "company": "Nimbbl",
+        "title": "Partner Success Engineering Intern",
+        "years": "June 2022 - Present",
+        "description": "I work on helping merchants with integration, payment issues. Api testing & Website development are my main tasks"
+      },
+      {
+        "company": "FuseBytes",
+        "title": "Frontend Web Developer",
+        "years": "July 2021 - October 2021",
+        "description": "We created an app for doctors to maintain patient records. I worked on the UI & Documentation of the app."
+      },
+      {
+        "company": "Fusion Tech Process Consulting",
         "title": "React Developer",
-        "years": "September 2020 - Present",
-        "description": "Completing all the React Dev tasks on company's and client's websites"
+        "years": "March 2021 - May 2021",
+        "description": "I worked on company's product named DeepTraQ. Created components, pages, and UI for the product."
+      },
+      {
+        "company": "Fusion Tech Process Consulting",
+        "title": "React Developer",
+        "years": "September 2020 - December 2020",
+        "description": "I worked on company's and client's websites"
       }
     ],
     "skills": [
